@@ -1,6 +1,8 @@
 # Membrane recruitment analysis
 
-##Membrane recruitment analysis part 1
+![Example of membrane analysis workflow](/.jpg?raw=true "Example of membrane analysis workflow")
+
+## Membrane recruitment analysis part 1
 ImageJ-Macro: Save_profiles.ijm
 
 Run for every image separately after:
@@ -15,7 +17,7 @@ Goals:
  - Save ROIs
 
 
-##Membrane recruitment analysis part 2
+## Membrane recruitment analysis part 2
 R-script Membrane_recruitment.R with function merge_lines()
 
 Goals:
