@@ -1,6 +1,6 @@
 # Membrane recruitment analysis
 
-![Example of membrane analysis workflow](/.jpg?raw=true "Example of membrane analysis workflow")
+![](/MemRecruitment_Method.jpg?raw=true "Example of membrane analysis workflow")
 
 ## Membrane recruitment analysis part 1
 ImageJ-Macro: Save_profiles.ijm
